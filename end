@@ -1,0 +1,7 @@
+# Настройки для MariaDB
+MARIADB_PORT=3306
+MARIADB_ROOT_PASSWORD=root_password
+MARIADB_DATABASE=my_database
+MARIADB_USER=my_user
+MARIADB_USER_PASSWORD=my_user_password
+
