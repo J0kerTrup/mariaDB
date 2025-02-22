@@ -21,7 +21,7 @@
 
 1. Скачайте репозиторий с GitHub, используя команду git clone:
 
-```git clone https://github.com/Joker-trup/mariaDB.git```
+```git clone https://github.com/J0kerTrup/mariaDB.git```
 
 2. Перейдите в директорию с проектом:
 
